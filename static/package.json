@@ -1,0 +1,24 @@
+{
+    "name": "emsend",
+    "version": "1.0.0",
+    "description": "emsend sendRequest angular $http",
+    "main": "emsend.js",
+    "scripts": {
+        "test": "node_modules/karma/bin/karma start"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-karma": "0.0.5",
+        "jasmine-core": "^2.3.4",
+        "karma": "^0.13.15",
+        "karma-chrome-launcher": "^0.2.1",
+        "karma-coverage": "^0.5.3",
+        "karma-jasmine": "^0.3.6",
+        "karma-junit-reporter": "^0.3.8",
+        "karma-phantomjs-launcher": "^0.2.1",
+        "karma-safari-launcher": "^0.1.1",
+        "phantomjs": "^1.9.18"
+    }
+}
